@@ -3,7 +3,7 @@
 A full-stack, Role-Based Access Control (RBAC) task management web application built with the MERN stack. Designed to allow teams to organize projects, assign tasks, and track progress securely.
 
 ### 🔗 Live Demo
-**[Experience the live application here](https://team-task-manager-sage.vercel.app/login)**
+**[Experience the live application here](https://team-task-manager-sage.vercel.app)**
 
 *(Frontend hosted on Vercel, Backend and Database hosted on Railway)*
 
